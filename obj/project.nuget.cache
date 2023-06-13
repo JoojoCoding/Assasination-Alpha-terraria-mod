@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZjd5EAq5dFGxhBSHXybnyZ9b5ZEBVnL7GOS2w5Az0ppqOzov0a+HRHK0ukMFJpwxw2eMFr+NyNeLKzaqU+Pew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48576\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\assasinmod\\assasinmod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48576\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

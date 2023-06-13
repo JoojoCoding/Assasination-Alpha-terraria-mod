@@ -1,0 +1,11 @@
+Assasination is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+
+tier 1 (pre bosses)
+tier 2 (pre EoW or BoC)
+tier 3 (pre Skeletron)
+tier 4 (pre WoF)
+tier 5 (pre Mecha)
+tier 6 (pre plantera)
+tier 7 (pre golem)
+tier 8 (lunar event)
+tier 9 (endgame)
